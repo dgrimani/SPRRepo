@@ -1,2 +1,3 @@
 Modifica effettuata dalla partizione C:
 Modifica effettuata dalla partizione C:
+Questa modifica sarà visualizzata sulla versione del C:\
